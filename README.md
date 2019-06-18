@@ -7,8 +7,6 @@ Overview
 
 ## Demo
 
-## VS. 
-
 ## Requirement
 
 ## Usage
